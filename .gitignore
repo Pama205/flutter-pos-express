@@ -1,0 +1,57 @@
+# Archivos generados por Flutter
+/build/
+.dart_tool/
+.flutter-plugins-dependencies
+.flutter-plugins
+
+# Variables de entorno
+.env
+
+# Directorios de Android
+/android/.gradle
+/android/local.properties
+/android/local.properties
+/android/.idea
+/android/key.properties
+/android/local.properties
+/android/gradlew
+/android/gradlew.bat
+
+# Directorios de iOS
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/pod_install.rb
+/ios/.idea
+/ios/.flutter-plugins
+/ios/.flutter-plugins-dependencies
+/ios/.packages
+/ios/Pods/
+
+# Dependencias de paquetes
+/packages/
+
+# Directorios de macOS
+/macos/.flutter-plugins
+/macos/.flutter-plugins-dependencies
+/macos/.packages
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Directorios de Web
+/web/.flutter-plugins
+/web/.flutter-plugins-dependencies
+/web/.packages
+
+# Directorios de Linux
+/linux/.flutter-plugins
+/linux/.flutter-plugins-dependencies
+/linux/.packages
+
+# Directorios de Windows
+/windows/.flutter-plugins
+/windows/.flutter-plugins-dependencies
+/windows/.packages
+
+# Archivos de la API de Python
+/server/venv/
+/server/__pycache__/
+/server/instance/
+/server/.env
